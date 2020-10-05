@@ -3,7 +3,6 @@
 *Derrière les nuages se cachent toujours le soleil
 
 ![Photo de moi](/home/becode/Becode/markdown-challenge/Images/me.jpg)
-Format: ![Alt Text](url)
 
 
 ## Je m'appelle Bastien, j'ai 25ans, et je suis en formation de developpement web.
