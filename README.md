@@ -1,6 +1,6 @@
 # Bastien
 
-*Derrière les nuages se cachent toujours le soleil
+*Derrière les nuages se cachent toujours le soleil*
 
 ![Photo de moi](/home/becode/Becode/markdown-challenge/Images/me.jpg)
 
