@@ -2,31 +2,29 @@
 
 *Derrière les nuages se cachent toujours le soleil
 
+<img src="/home/becode/Téléchargements/me.jpg" alt="moi" title="Photo professionelle" />
 
-A (professional) photo of yourself (you can save the file in the repository next to the README file)
+## Je m'appelle Bastien, j'ai 25ans, et je suis en formation de developpement web.
 
-"Me, in one sentence" (as a smaller header)
 
-A table with the following structure:
+| Birthday      | favourite color | favourite food    | pinneapple on pizza ? | 
+| ------------- |:---------------:| --------------:   | --------------------- | 
+| 07/06/1995    | Green           | hachis-parmentier |   NO                  | 
+|               | Green           |                   |                       | 
+|               | More green      |                   |                       | 
 
-Birthday: dd/mm
-Favorite color: ?
-Favorite food: ?
-Pinneapple on pizza: Yes/No (Extra challenge: make it look like a (un)checked checkbox)
+### mes hobbys : 
+* La photographie, 
+* La nature, 
+* La mythologie grecques,...
 
-Hobbies (smaller header)
+#### You can always count on me when you're alone or if you want to laugh
 
-This should contain a bullet list of your hobbies
-At least on item should contain a sublist, for example if you like movies, maybe make a sublist of some movies you really like.
+i'm a good teammate for work hard but laugh too with all peoples in my group. I love good vibes ! 
 
-You can always count on me when... (smaller header)
+#### J'ai perdu un défi et ai du changer de pantalon avec un ami dans la rue.
 
-Tell your teammates which positive contribution to the group you will make.
-This could be technical, making people feel comfortable, being an organiser...
-
-A funny story (smaller header)
-
-Tell a short funny story about your life.
+All my life is a funny story !
 
 TL;DR (even smaller header, under funny story)
 
