@@ -24,15 +24,12 @@ i'm a good teammate for work hard but laugh too with all peoples in my group. I 
 
 #### J'ai perdu un défi et ai du changer de pantalon avec un ami dans la rue.
 
+un jour je me suis levé pour aller a l'école, il devait être 7h, et je me suis donc préparé pour partir (brossage dedans, préparation de mon sac, etc...), j'ai ensuite été prendre le bus pendant 1h45 avant de me rendre compte que je n'avais pas cours.
+TL;DR 
 All my life is a funny story !
 
-TL;DR (even smaller header, under funny story)
 
-Summarise your funny story in one short sentence.
-
-! IMPORTANT -> At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
-Organise yourself so it is easy to know who you should link to.
 
 The links should have the following structure:
 
-<< previous || YOUR NAME || next >>
+<< previous || BASTIEN || next >>
