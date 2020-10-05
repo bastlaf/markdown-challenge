@@ -32,4 +32,4 @@ All my life is a funny story !
 
 The links should have the following structure:
 
-<< previous || BASTIEN || next >>
+[<< previous](http://github.com)|| BASTIEN || [next >>](http://github.com)
