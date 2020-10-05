@@ -33,4 +33,4 @@ All my life is a funny story !
 
 The links should have the following structure:
 
-[<< previous](http://github.com)|| BASTIEN || [next >>](http://github.com)
+[<< previous](https://github.com/Achouffe666/marckdown-challenge/blob/main/README.md)|| BASTIEN || [next >>](https://github.com/Bertrand2/markdown-challenge/blob/master/README.md)
