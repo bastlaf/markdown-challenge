@@ -26,11 +26,10 @@ i'm a good teammate for work hard but laugh too with all peoples in my group. I 
 #### J'ai perdu un défi et ai du changer de pantalon avec un ami dans la rue.
 
 un jour je me suis levé pour aller a l'école, il devait être 7h, et je me suis donc préparé pour partir (brossage dedans, préparation de mon sac, etc...), j'ai ensuite été prendre le bus pendant 1h45 avant de me rendre compte que je n'avais pas cours.
+
 TL;DR 
+
 All my life is a funny story !
 
-
-
-The links should have the following structure:
 
 [<< previous](https://github.com/Achouffe666/marckdown-challenge/blob/main/README.md)|| BASTIEN || [next >>](https://github.com/Bertrand2/markdown-challenge/blob/master/README.md)
